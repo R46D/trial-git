@@ -260,4 +260,3 @@ file['PERSONAL PRONOUNS'] =  PERSONAL_PRONOUNS
 file['AVG WORD LENGTH'] =  AVG_WORD_LENGTH
 
 file.to_excel('Output.xlsx',index=False)
-file.to_csv('Output.csv',index=False)
